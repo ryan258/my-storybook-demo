@@ -5,7 +5,7 @@ import MyButton from './MyButton';
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
   // the text you see in the left handle panel (required)
-  title: 'MyButton',
+  title: 'Form/MyButton',
   // the component you are targeting with these stories
   component: MyButton,
 };
